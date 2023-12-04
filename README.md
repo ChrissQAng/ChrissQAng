@@ -1,5 +1,5 @@
 Hello to everyone,
-My name is chriss and I worked my whole life in the movies.
+My name is chriss and I worked my whole life at the movies.
 Since conditions there got more bad more bad,
 I made up my mind to start a new career in IT.
 Thanks for your visit.
