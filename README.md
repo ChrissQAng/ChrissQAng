@@ -1,8 +1,5 @@
 Hello to everyone,
-My name is chriss and I`ve worked my whole life at the movies.
-Since conditions there got more and more bad,
-I made up my mind to start a new career in IT.
-Thanks for your visit.
+Skills & Technologies: ReactJS | jQuery | JavaScript ES6+ | Tailwind CSS | SASS/SCSS | CSS | HTML | Git | GitHub | Command Line | Node.js. | Express.js | MongoDB
 
 <!---
 ChrissQAng/ChrissQAng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
