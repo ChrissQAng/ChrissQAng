@@ -58,6 +58,7 @@ Hello, I’m Chris – a passionate software developer focused on modern web tec
     </tr>
     <tr>
       <td align="center" colspan="3" style="padding-top: 8px">
+	<br>
         <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" ><br><br>
         <p><strong>Manual Deployment</strong></p>
         <p>gesinegrundmann.org is deployed directly on private servers without automated platforms like Vercel</p>
