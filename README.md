@@ -96,7 +96,7 @@ Hello, I’m Chris – a passionate software developer focused on modern web tec
         <table>
           <tr>
             <th>
-              <a style="color:white; background-color: red; padding: 5px 8px;" 
+              <a 
                  href="https://gesinegrundmann.org" 
                  target="_blank">
                 GesinneGrundmann Website
@@ -105,7 +105,7 @@ Hello, I’m Chris – a passionate software developer focused on modern web tec
           </tr>
           <tr>
             <td>
-		<a style="color: green !important" 
+		<a 
                  href="https://github.com/ChrissQAng/gesineGrundmannWebside" 
                  target="_blank">
               <p>ReactJS Vite</p>
